@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2013 Fuse Elements, LLC. All rights reserved.
- */
-
 (function () {
   'use strict';
 
